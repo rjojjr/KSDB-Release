@@ -1,0 +1,1 @@
+java -jar KSDB-1.0.00-Windows.jar
